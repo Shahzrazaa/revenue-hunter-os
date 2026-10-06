@@ -1,0 +1,28 @@
+[
+  {
+    "id": "demo-001",
+    "title": "Customer Analytics Dashboard Pilot",
+    "description": "Remote buyer needs a compact dashboard that turns customer feedback and support data into recurring issues, priorities, and business recommendations.",
+    "budget": 500,
+    "source": "Direct Prospect",
+    "url": "",
+    "score": 76,
+    "reasons": ["budget ≥ $500", "international-friendly", "actionable source", "2 AI/service-fit signals"],
+    "status": "New",
+    "created": "2026-09-21T17:39:54",
+    "pitch": "Hi — I looked at your Customer Analytics Dashboard Pilot requirement. Instead of starting with a long engagement, I can deliver a focused 48-hour paid sprint: research the buyer/market, identify the strongest angles, and produce execution-ready assets. For this brief I'd start with the highest-leverage bottleneck in your description, then give you a compact test pack you can evaluate immediately. If it performs, we scale from there.\n\nSuggested trial: $500 fixed. No long commitment."
+  },
+  {
+    "id": "demo-002",
+    "title": "E-commerce Catalog Automation",
+    "description": "A small online retailer wants product data cleaned, standardized, enriched, and prepared for import into its commerce platform.",
+    "budget": 350,
+    "source": "Contra",
+    "url": "",
+    "score": 69,
+    "reasons": ["paid-trial sized budget", "actionable source", "3 AI/service-fit signals"],
+    "status": "Qualified",
+    "created": "2026-09-22T10:00:00",
+    "pitch": "Hi — I looked at your E-commerce Catalog Automation requirement. I can start with a focused paid sprint to map the fields, clean a representative batch, and return an import-ready output plus a repeatable workflow.\n\nSuggested trial: $350 fixed. No long commitment."
+  }
+]
