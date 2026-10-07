@@ -1,5 +1,9 @@
 # Revenue Hunter OS
 
+[![smoke-tests](https://github.com/Shahzrazaa/revenue-hunter-os/actions/workflows/test.yml/badge.svg)](https://github.com/Shahzrazaa/revenue-hunter-os/actions/workflows/test.yml)
+
+**Working local prototype · FastAPI · opportunity scoring · pipeline tracking · reviewed outreach**
+
 A local FastAPI command center for turning scattered opportunity research into a ranked action queue, lightweight sales pipeline, and collected-revenue scoreboard.
 
 This is an AI-assisted portfolio project focused on a simple business problem: **finding opportunities is easy; deciding what to pursue and moving it toward paid work is harder.**
