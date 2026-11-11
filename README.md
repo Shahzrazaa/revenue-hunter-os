@@ -1,12 +1,23 @@
 # Revenue Hunter OS
 
 [![smoke-tests](https://github.com/Shahzrazaa/revenue-hunter-os/actions/workflows/test.yml/badge.svg)](https://github.com/Shahzrazaa/revenue-hunter-os/actions/workflows/test.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Working local prototype · FastAPI · opportunity scoring · pipeline tracking · reviewed outreach**
 
 A local FastAPI command center for turning scattered opportunity research into a ranked action queue, lightweight sales pipeline, and collected-revenue scoreboard.
 
 This is an AI-assisted portfolio project focused on a simple business problem: **finding opportunities is easy; deciding what to pursue and moving it toward paid work is harder.**
+
+## Screenshots
+
+Local run with the included fictional demo opportunities (`data/opportunities.json`):
+
+![Revenue Hunter OS dashboard](docs/screenshots/dashboard.png)
+
+Channel scoreboard and the ranked revenue queue (score, reasons, generated pitch and pipeline status):
+
+![Revenue queue](docs/screenshots/revenue-queue.png)
 
 ## What the prototype does
 
@@ -86,6 +97,7 @@ This score is a prioritization heuristic, not a probability model.
 ├── app/main.py                 # FastAPI app + scoring + pipeline + mail integration
 ├── templates/index.html        # Jinja2 dashboard
 ├── static/style.css            # UI styling
+├── docs/screenshots/           # README screenshots (demo data)
 ├── data/opportunities.json     # Fictional demo opportunities
 ├── tests/test_scoring.py       # Core scoring/pitch tests
 ├── requirements.txt
@@ -120,4 +132,5 @@ This project demonstrates:
 ---
 
 **Author:** Shahzad Raza — IBA Karachi  
-**Status:** Working local prototype / portfolio project
+**Status:** Working local prototype / portfolio project  
+**License:** [MIT](LICENSE)
